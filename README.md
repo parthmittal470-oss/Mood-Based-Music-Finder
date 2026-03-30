@@ -30,8 +30,8 @@ Mood-Based Music Finder is a web application that helps users discover songs bas
 
 ## 🌐 API Used
 
-* Deezer API
-  Example: https://api.deezer.com/search?q=happy
+* Itunes API
+  Example: (https://itunes.apple.com/search?term=happy+bollywood+india&entity=song&limit=30&country=IN)
 
 ---
 
