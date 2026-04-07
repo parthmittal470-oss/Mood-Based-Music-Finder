@@ -21,6 +21,16 @@
   <!-- Main -->
   <div class="main">
     <h1>Music Dashboard</h1>
+
+    <!-- Search + Sort -->
+    <input type="text" id="searchInput" placeholder="Search songs...">
+    
+    <select id="sortSelect">
+      <option value="">Sort</option>
+      <option value="asc">A → Z</option>
+      <option value="desc">Z → A</option>
+    </select>
+
     <p id="loading"></p>
 
     <div id="songs" class="songs"></div>
